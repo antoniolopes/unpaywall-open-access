@@ -1,0 +1,4 @@
+*.code-workspace
+.venv/
+__pycache__
+unpaywall/__pycache__
